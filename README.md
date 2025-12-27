@@ -1,3 +1,12 @@
+> ⚠️ Fork Notice  
+> This repository is a fork of `0xHoneyJar/agentic-base`.
+>  
+> Changes in this fork:
+> - Added compatibility with **Antigravity** and **Cursor**
+> - Supports **Gemini** and **Claude** (not Claude-only)
+> - No changes to the original workflow design or philosophy
+
+
 # Agentic Base
 
 An agent-driven development framework that orchestrates the complete product development lifecycle—from requirements gathering through production deployment—using specialized AI agents.
@@ -10,7 +19,9 @@ This framework uses specialized AI agents working together in a structured workf
 
 ### Prerequisites
 
-- [Claude Code](https://claude.ai/code) OR [Goose](https://github.com/block/goose) (for Gemini) installed
+- **[Cursor](https://cursor.com)** or **[Antigravity*](https://antigravity.google)*, or ofcourse also [Claude Code](https://claude.ai/code) installed
+  (Claude or Gemini supported)
+
 - Git configured
 
 ### Setup
