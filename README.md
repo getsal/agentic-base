@@ -19,7 +19,7 @@ This framework uses specialized AI agents working together in a structured workf
 
 ### Prerequisites
 
-- **[Cursor](https://cursor.com)** or **[Antigravity*](https://antigravity.google)*, or ofcourse also [Claude Code](https://claude.ai/code) installed
+- [**Cursor**](https://cursor.com) or [**Antigravity**](https://antigravity.google), or ofcourse also [**Claude Code**](https://claude.ai/code) installed
   (Claude or Gemini supported)
 
 - Git configured
